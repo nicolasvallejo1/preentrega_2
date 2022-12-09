@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"Pistola GLOCK 17 9 MM Gen3", "descripcion":"La Glock 17 en el calibre 9×19 es la pistola más utilizada mundialmente por los organismos gubernamentales.", "imagen":"images/g17.jpg", "precio":1500, "stock":10, "categoria":"Armas Cortas"},
+    {"id":2, "nombre":"Pistola BERSA TPR9","descripcion":"Manteniendo las bases de lo que la hicieron tan reconocida a la Thunder 9 PRO en el servicio de Fuerzas de Seguridad de América latina, actualizamos su estética dándole origen a la nueva TPR9..", "imagen":"images/TPR9.WEBP", "precio":1600, "stock":9, "categoria":"Armas Cortas"},
+    {"id":3, "nombre":"ESCOPETA AKKAR MARINER 12/70", "descripcion":"Calibre 12/76.A repetición. terminación nickel.Cañón de 470 mm.Capacidad de 6+1 cartuchos.", "imagen":"images/e_mariner.jpg", "precio":1700, "stock":8, "categoria":"Armas Largas"},
+    {"id":4, "nombre":"Escopeta Atlas PAM41FS", "descripcion":"Sistema : RepeticiónCapacidad: 4 tiros + 1Culata: Polímero tipo folding Calibre: 12-76", "imagen":"images/e-pam41fs.jpg", "precio":400, "stock":6, "categoria":"Armas Largas"},
+    {"id":6, "nombre":"FUNDA SWISS ARMS EXTERNA RIGIDA GLOCK 17", "descripcion":"Moldeadas en polímero.Únicamente compatible con Glock 17Seguro de desenfundePaleta intera con traba cinto", "imagen":"images/funda1.webp", "precio":1300, "stock":6, "categoria":"Accesorios"},
+    {"id":7, "nombre":"BAQUETA de limpieza", "descripcion":"calibre .177 (4.5mm.) KIT ACCESORIOS LUBRILINA", "imagen":"images/BAQUETA.webp", "precio":700, "stock":12, "categoria":"Accesorios"},
+    {"id":8, "nombre":"Carpa Waterdog Kira 4", "descripcion":"Armado fácil y sencillo,2 entradas y un ábside,1 dormitorio con ventilación y 1 comedor, Cubretecho hasta el piso ", "imagen":"waterdog_kira_1.jpg", "precio":800, "stock":10, "categoria":"Camping"},
+    {"id":9, "nombre":"CONSERVADORA COLEMAN 150QT CHEST MARINE", "descripcion":"• Capacidad: 150QT (223 Latas) • Conserva el frío por 6 días. • Revestimiento anti-manchas y olor. • Tapón de desagote. • Manija reforzada.", "imagen":"images/marine.2-1.webp", "precio":600, "stock":8, "categoria":"Camping"}
+]
