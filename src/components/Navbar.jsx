@@ -16,10 +16,10 @@ const NavBar = () => {
                             <div className="collapse navbar-collapse" id="navbarNav">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <NavLink className="nav-link" activeclassname="page" to={"/category/Armas Cortas"}>Armas Cortas</NavLink>
+                                        <NavLink className="nav-link" activeclassname="page" to={"/category/ArmasCortas"}>Armas Cortas</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <NavLink className="nav-link" activeclassname="page" to={"/category/Armas Largas"}>Armas Largas</NavLink>
+                                        <NavLink className="nav-link" activeclassname="page" to={"/category/ArmasLargas"}>Armas Largas</NavLink>
                                     </li>
                                     <li className="nav-item">
                                         <NavLink className="nav-link" activeclassname="page" to={"/category/Accesorios"}>Accesorios</NavLink>
